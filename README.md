@@ -16,8 +16,8 @@ A video Surveillance Desktop app with Ai included: Face, anti theft, Fire Detect
 - https://www.linkedin.com/posts/ronel-jordan-t-072885118_sydney-levante-c-activity-7265582957250109441-UXgk?utm_source=share&utm_medium=member_desktop
 - https://www.linkedin.com/posts/ronel-jordan-t-072885118_streaming-videosurveillance-c-activity-7259963542294990848-iQXv?utm_source=share&utm_medium=member_desktop
 # Contact
-Ronel Jordan Tchoulayeu Tientcheu , C++/QT Developer / Embedded Systems Engineer
-Email : jordanprog@yahoo.fr
+- Ronel Jordan Tchoulayeu Tientcheu , C++/QT Developer / Embedded Systems Engineer
+- Email : jordanprog@yahoo.fr
 
 
 
