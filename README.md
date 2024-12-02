@@ -1,12 +1,12 @@
 # watcher
-A video Surveillance Desktop app with Ai included: Face, anti theft, Fire Detection, multithreading Suppor
+A video Surveillance Desktop app with Ai included: Face, anti theft, Fire Detection, multithreading Support
 ![Capture](https://github.com/user-attachments/assets/ba5415ea-b183-4c17-8fe7-fc585a781a4d)
 
 # Features
-64 cameras support: cctv cameras, ip cameras locally and online
-Video Recording, fire detection
-Multithreading support
-Antitheft system
+- 64 cameras support: cctv cameras, ip cameras locally and online
+- Video Recording, fire detection
+- Multithreading support
+- Antitheft system
 # ScreenShots
 ![w2](https://github.com/user-attachments/assets/02b10ded-ab14-4f07-9c98-633ee6f809bb)
 ![IPCAMS4](https://github.com/user-attachments/assets/fc467af6-0c8a-4a2c-9ab6-2b8caea5a562)
