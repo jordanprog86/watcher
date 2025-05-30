@@ -8,7 +8,7 @@ A video Surveillance Desktop app with Ai included: Face, anti theft, Fire Detect
 - Multithreading support
 - Antitheft system
 # ScreenShots
-![Uploading 09.05.2025_13.31.53_REC.png…]()
+![09 05 2025_13 31 53_REC](https://github.com/user-attachments/assets/47c4cbb5-5dbd-43fb-80a6-074161918e56)
 ![w2](https://github.com/user-attachments/assets/02b10ded-ab14-4f07-9c98-633ee6f809bb)
 ![IPCAMS4](https://github.com/user-attachments/assets/fc467af6-0c8a-4a2c-9ab6-2b8caea5a562)
 ![hjdahja](https://github.com/user-attachments/assets/b90f67b2-b378-453c-bfdf-229360569a55)
