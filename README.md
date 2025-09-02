@@ -13,6 +13,8 @@ A video Surveillance Desktop app with Ai included: Face, anti theft, Fire Detect
 ![IPCAMS4](https://github.com/user-attachments/assets/fc467af6-0c8a-4a2c-9ab6-2b8caea5a562)
 ![hjdahja](https://github.com/user-attachments/assets/b90f67b2-b378-453c-bfdf-229360569a55)
 ![YU](https://github.com/user-attachments/assets/f0104254-6ba4-4198-a96e-aef10463580f)
+<img width="1920" height="1030" alt="Screenshot 2025-07-02 071913" src="https://github.com/user-attachments/assets/1fef8a80-7f9e-4611-a937-fb7d3c82f5bc" />
+
 
 # Demo Videos
 - https://www.linkedin.com/posts/ronel-jordan-t-072885118_sydney-levante-c-activity-7265582957250109441-UXgk?utm_source=share&utm_medium=member_desktop
