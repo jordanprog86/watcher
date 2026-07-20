@@ -1,6 +1,6 @@
 # watcher
 A video Surveillance Desktop app with Ai included: Face, anti theft, Fire Detection, multithreading Support
-<img width="1918" height="1021" alt="26 09 2025_12 45 44_REC" src="https://github.com/user-attachments/assets/b200ac3d-67c3-4438-9392-eacc25241fb8" />
+<img width="1920" height="1032" alt="watcherHome" src="https://github.com/user-attachments/assets/93e6307c-597a-485e-9e9e-aceae36ebe0a" />
 
 
 # Features
@@ -9,7 +9,6 @@ A video Surveillance Desktop app with Ai included: Face, anti theft, Fire Detect
 - Multithreading support
 - Antitheft system
 # ScreenShots
-<img width="1920" height="1032" alt="watcherHome" src="https://github.com/user-attachments/assets/93e6307c-597a-485e-9e9e-aceae36ebe0a" />
 ![w2](https://github.com/user-attachments/assets/02b10ded-ab14-4f07-9c98-633ee6f809bb)
 ![IPCAMS4](https://github.com/user-attachments/assets/fc467af6-0c8a-4a2c-9ab6-2b8caea5a562)
 ![hjdahja](https://github.com/user-attachments/assets/b90f67b2-b378-453c-bfdf-229360569a55)
